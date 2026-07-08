@@ -88,7 +88,7 @@ python Main.py
 
 ## 📸 Sample Output
 
-![Program Output](output.png)
+![Program Output](Output.png)
 
 ---
 
